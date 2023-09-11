@@ -1,7 +1,7 @@
 -- Left side of the 3x3 Door. See https://youtu.be/m66VWyxk20I.
 
 --
--- NOTE! This code is orientation dependent! Choose the version based on where the "A" port of your lua controllers point in-game:) 
+-- NOTE! This code is orientation dependent! If you want to rotate it clockwise, make all A to B, B to C, C to D, and D to A:) 
 --
 
 -- Running code in a sequence
